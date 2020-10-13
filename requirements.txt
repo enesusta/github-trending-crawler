@@ -1,0 +1,5 @@
+bs4
+urllib3
+requests
+html5lib
+Flask
