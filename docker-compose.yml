@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  github-trending-crawler:
+    container_name: github-trending-crawler
+    image: enesusta/github-trending-crawler
+    ports:
+    - 8080:5000
