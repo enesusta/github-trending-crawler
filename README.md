@@ -39,7 +39,7 @@ version: '3'
 services:
   github-trending-crawler:
     container_name: github-trending-crawler
-    image: enesusta/github-trending-crawler
+    image: enesusta/github-trending-crawler:20210606
     ports:
     - 8080:5000
 ```
