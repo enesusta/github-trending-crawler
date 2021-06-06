@@ -24,7 +24,7 @@ You can mapping the ports whatever you want. The most important thing about gith
 - With CLI
 
 ```bash
-docker run -d -p 8080:5000 enesusta/github-trending-crawler
+docker run -d -p 8080:5000 enesusta/github-trending-crawler:20210606
 ```
 
 - With docker-compose
